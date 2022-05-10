@@ -15,11 +15,12 @@ const theme = {
     bigIcon: "2rem",
     header: "1.3rem",
     normal: "1rem",
+    small: "0.75rem",
   },
   smallScreenFontSizes: {
     headerBiggest: "3.25rem",
     bigIcon: "2rem",
-    header: "1.3rem",
+    header: "1rem",
     normal: "1rem",
   },
 };

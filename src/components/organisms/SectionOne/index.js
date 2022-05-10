@@ -16,7 +16,7 @@ const SectionOne = () => {
         >
           WEEKEND FROM HOME
         </Text>
-        <Text color="white" className="mt-20 mb-67">
+        <Text color="white" className="mt-20 mb-67" size="header">
           Stay active with a litte workout
         </Text>
       </WrapperText>

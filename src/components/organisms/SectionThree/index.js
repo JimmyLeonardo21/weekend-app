@@ -58,7 +58,7 @@ const SectionThree = () => {
       </WrapperContent>
       <Wrapper>
         <WrapperText>
-          <Text color="white" className="align-center">
+          <Text color="white" className="align-center" size="bigIcon">
             POV
           </Text>
           <Paragraf>
@@ -70,7 +70,7 @@ const SectionThree = () => {
           </Paragraf>
         </WrapperText>
         <WrapperText>
-          <Text color="white" className="align-center">
+          <Text color="white" className="align-center" size="bigIcon">
             Resource
           </Text>
           <Paragraf>
@@ -222,6 +222,7 @@ const Paragraf = styled.p`
     text-align: left;
     margin-right: 32px;
     margin-left: 32px;
+    font-size: 16px;
   }
 `;
 

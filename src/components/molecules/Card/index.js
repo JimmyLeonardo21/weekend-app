@@ -8,7 +8,7 @@ const Card = ({ data }) => {
         {data.by}
       </Text>
       <Content>
-        <Text className="pt-card" weight="light">
+        <Text className="pt-card" weight="light" size="small">
           {data.testimony}
         </Text>
       </Content>
